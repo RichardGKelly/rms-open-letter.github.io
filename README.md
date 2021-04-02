@@ -1,5 +1,7 @@
 **⚠️ As of April 1, 2021 00:00 UTC we are no longer accepting signatures.**
 
+If you want to *remove* your signature, you can still submit a pull request or email digitalautonomy at riseup.net.
+
 ## Translations :globe_with_meridians:
 
 These translations have been contributed by our community translators. Thanks!
